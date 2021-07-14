@@ -1,0 +1,22 @@
+body{
+    margin: 0px;
+}
+.navbar{
+    background-color: aquamarine;
+   
+    /* flex-direction: row-reverse; */
+    /* flex-direction: column; */
+    display: flex;
+    
+    justify-content: space-evenly;
+  
+
+
+}
+h1 .nav-link{
+    position: relative;
+    /* top: 22px;
+    right: 50px;*/
+    display: flex;
+    justify-content: flex-start;
+}
